@@ -36,6 +36,8 @@ ID: 0855938
 
 [5 pts] Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
 
-
+  ![Successful Travis build after uncommenting coordinates in pom.xml](figures\successful-travis-build-4.JPG)
 
 [5 pts] Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
+
+  ![Passing readme badge after uncommenting coordinates in pom.xml](figures\passing-readme-badge.JPG)
