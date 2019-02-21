@@ -4,15 +4,15 @@ ID: 0855938
 
 [5 pts] Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 
-  ![Forked Repo](figures\forked-repo.JPG)
+  ![Forked Repo](figures/forked-repo.JPG)
 
 [5 pts] Your Travis CI dashboard showing a successful first build.
 
-
+  ![1st successful travis build](figures/first-successful-travis-build.JPG)
 
 [5 pts] The section of the POM file showing the coordinates after you’ve changed them.
 
-
+  ![Edited Group ID in pom](figures/edited-group-id-pom.JPG)
 
 [5 pts] Your Travis CI dashboard showing a successful build after your change of the group ID.
 
