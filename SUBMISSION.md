@@ -36,17 +36,16 @@ Homework 8
 
 [5 pts] Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
 
-
+[Link to docker-compose.yml file](docker-compose.yml)
 
 [5 pts] Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
 
-
+[Link to application-mysql.properties file](src/main/resources/application-mysql.properties)
 
 [5 pts] The output from the docker-compose up command.
 
-
-
+![app error stack trace](figures/both_cli.JPG)
 
 [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container.
 
-
+![app error stack trace](figures/both_vet_page.JPG)
