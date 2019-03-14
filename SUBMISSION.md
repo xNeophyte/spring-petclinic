@@ -8,15 +8,15 @@ Homework 8
 
 [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-
+* [Link to Dockerfile](Dockerfile)
 
 [5 pts] Your running docker instance as shown by a ps command.
 
-
+![docker app only ps command](figures/docker_app_only_cli.JPG)
 
 [5 pts] Your browser accessing the main page of the website from your local container.
 
-
+![docker app only ui](figures/docker_app_only_ui.JPG)
 
 ## DOCKER COMPOSE - MYSQL ONLY
 
