@@ -22,15 +22,15 @@ Homework 8
 
 [5 pts] The output from the docker-compose up command.
 
-
+![docker compose up cmd](figures/mysql_only_cli.JPG)
 
 [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
 
-
+![Veterinarians page](figures/mysql_only_vet_page.JPG)
 
 [5 pts] A section of the stack trace generated when you attempt to run the applicationcontainer that has been updated to use MySQL.
 
-
+![app error stack trace](figures/mysql_only_app_error.JPG)
 
 ## DOCKER COMPOSE - APP SERVER AND MYSQL
 
